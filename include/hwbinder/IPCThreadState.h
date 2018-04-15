@@ -132,8 +132,8 @@ private:
             sp<BHwBinder>         mContextObject;
 };
 
-}; // namespace hardware
-}; // namespace android
+} // namespace hardware
+} // namespace android
 
 // ---------------------------------------------------------------------------
 

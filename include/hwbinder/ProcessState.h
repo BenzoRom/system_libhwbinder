@@ -116,8 +116,8 @@ private:
     volatile int32_t            mThreadPoolSeq;
 };
 
-}; // namespace hardware
-}; // namespace android
+} // namespace hardware
+} // namespace android
 
 // ---------------------------------------------------------------------------
 
